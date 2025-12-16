@@ -42,7 +42,7 @@ export default function FirstScreen({ onNext }) {
                     className="text-5xl md:text-6xl text-center mb-6 max-w-3xl text-balance leading-tight text-foreground font-medium"
                 >
                     I want to say something
-                    <span className="block text-primary">to you</span>
+                    <span className="block text-primary">to mine chota don 💗</span>
                 </motion.h1>
 
                 {/* Subtext */}
