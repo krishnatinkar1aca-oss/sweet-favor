@@ -7,7 +7,7 @@ const shantellSans = Shantell_Sans({
 })
 
 export const metadata = {
-  title: "This is for you!",
+  title: "This is for mine chota don!",
   description: "Just something simple, made with a lot of feeling."
 };
 
